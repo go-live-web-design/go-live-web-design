@@ -1,16 +1,19 @@
-### Hi there 👋
+Hi there, I'm Carmen! located in Denver CO
+ 
+I'm a WordPress, WooCommerce, Shopify UI/UX Expert, Web Developer and Designer. I have experience planning and delivering world-class website projects and support to companies of all sizes, including custom HTML, PHP, WordPress, WooCommerce and Shopify development and optimization. I'm a full-time freelancer! I'm always working on a new project to help the community. 
+• I've helped deliver more than 200 custom websites and web-based applications! • My core strengths are Shopify and WordPress (custom plugin and theme development)!
 
-<!--
-**go-live-web-design/go-live-web-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mailbox How to reach me
 
-Here are some ideas to get you started:
+• Link: https://www.upwork.com/freelancers/~01679244b2702d5bd2! You can reach me anywhere over there!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects I typically work on include!
+• CMS Development – Custom WordPress themes and plugins
+• E-commerce Development – WooCommerce and Shopify stores
+• PHP Frameworks – Laravel / CodeIgnitor/Core PHP
+• JS Frameworks – MEAN Stack / Node.JS / Angular 5-6
+• FRONTEND – HTML5 / CSS3 / jQuery / Bootstrap
+• BACKEND - RESTful / JSON / XML
+• Version Control - Github / Gitlab / Bitbucket / SVN
+• Databases and Data Management - MySQL / MongoDB / SQL
+• API Integration - Payment gateways / Google Maps / Mailchimp
