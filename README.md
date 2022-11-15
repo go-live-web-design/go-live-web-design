@@ -1,4 +1,4 @@
-Hi there, I'm Carmen! located in Denver CO
+***Hi there, I'm Carmen! located in Denver CO***
  
 I'm a WordPress, WooCommerce, Shopify UI/UX Expert, Web Developer and Designer. I have experience planning and delivering world-class website projects and support to companies of all sizes, including custom HTML, PHP, WordPress, WooCommerce and Shopify development and optimization. I'm a full-time freelancer! I'm always working on a new project to help the community. 
 
