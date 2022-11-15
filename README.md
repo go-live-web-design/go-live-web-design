@@ -4,11 +4,12 @@ I'm a WordPress, WooCommerce, Shopify UI/UX Expert, Web Developer and Designer. 
 
 • I've helped deliver more than 200 custom websites and web-based applications! • My core strengths are Shopify and WordPress (custom plugin and theme development)!
 
-Mailbox How to reach me
+***Mailbox How to reach me***
 
 • Link: https://www.upwork.com/freelancers/~01679244b2702d5bd2! You can reach me anywhere over there!
 
-Projects I typically work on include!
+***Projects I typically work on include!***
+
 • CMS Development – Custom WordPress themes and plugins
 
 • E-commerce Development – WooCommerce and Shopify stores
